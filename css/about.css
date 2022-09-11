@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+  background-size: cover;
+}
+.navbar-nav 
+{
+	margin-left: 48%;
+	padding:15px;
+	font-size: 22px;
+	font-family: montserrat;
+		transition: 0.4s;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+nav
+{
+	overflow: hidden;
+
+}
+.navbar-nav a:hover {
+  background-color:#1773E9;
+  text-decoration: underline;
+}
+.heading
+{
+  font-family: pacifico;
+  color:#1773E9;
+  font-size: 60px;
+  font-style: italic;
+ margin-left: : 1%;
+}
+.head
+{
+	margin-top: 10%;
+	margin-bottom: 4%;
+}
+.head h1
+{
+	color: #1773E9;
+	font-family: impact;
+	font-size: 43px;
+	text-align: center;
+}
+.head p
+{
+	text-align: center;
+	color: white;
+	font-family: Calibri;
+	font-size: 22px;
+	padding: 2px 10px;
+}
+.button {
+  background-color:#1773E9;
+  border: 1px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-left: 44%;
+  margin-top: 4%;
+}
+.button:hover
+{
+	background-color: white;
+	color:#1773E9;
+	text-decoration:underline;
+	text-decoration-style: inherit#1773E9;
+}
+.head h4
+{
+	font-family: Tahoma;
+	color: white;
+	margin-left: 23%;
+}
+.intro
+{
+	background-color: white;
+	margin-bottom: 5%;
+	padding-bottom: 20px;
+}
+.icons i
+{
+	padding: 15px;
+}

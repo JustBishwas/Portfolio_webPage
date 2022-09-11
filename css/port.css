@@ -1,0 +1,131 @@
+
+.heading
+{
+	font-family: pacifico;
+	color: #FF5555;
+	font-size: 60px;
+	margin-left: 2%;
+	font-style: italic;
+}
+.navbar-nav 
+{
+	margin-left: 48%;
+	padding:15px;
+	font-size: 22px;
+	font-family: montserrat;
+		transition: 0.4s;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 99;
+}
+.second
+{
+	color: white;
+	margin-top: 40%;
+	margin-left: 2%;
+	font-family: montserrat;
+	margin-top: 2%;
+	font-size: 24px;
+}
+.third
+{
+font-family: 'Anton', sans-serif;
+color: white;
+margin-left: 2%;
+font-size: 70px;
+font-style: bold;
+}
+.third p:hover{
+	transition: 0.9s;
+	color: #FF5555;
+}
+.fourth p:hover{
+	transition: 0.9s;
+	color: #FF5555;
+}
+.fourth
+{
+font-family: 'Anton', sans-serif;
+color: white;
+margin-left: 2%;
+font-size: 70px;
+font-style: bold;
+}
+.fifth
+{
+font-family: 'Cairo', sans-serif;
+color: white;
+margin-left: 2%;
+font-size: 20px;
+}
+.sixth
+{
+font-family: 'Open Sans', sans-serif;
+color: white;
+margin-left: 2%;
+font-size: 22px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  text-decoration: none;
+}
+
+.icons i
+{
+	margin: 3%;
+	text-decoration: none;
+	color: white;
+}
+.last button
+{
+	margin-left: 5%;
+}
+.last
+{
+	margin: 2%;
+}
+.last .h
+{
+font-size: 40px;
+color: white;
+}
+.last .ph a
+{
+font-size: 40px;
+color: #FF5555;
+list-style: hidden;
+text-decoration: none;
+}
+nav
+{
+	overflow: hidden;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar-nav a:hover {
+  background-color: #FF5555;
+  text-decoration: underline;
+}
+.icons i:hover{
+color: #FF5555;
+transition: 0.3s;
+}
+a.ex2:hover, a.ex2:active {font-size: 200%;
+color: #FF5555;
+text-decoration: none;
+transition: 0.3s;
+}
+.ex2
+{
+	color: #FF5555;
+	text-decoration: none;
+	transition: 0.9s;
+}

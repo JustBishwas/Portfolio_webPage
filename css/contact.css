@@ -1,0 +1,56 @@
+.navbar-nav 
+{
+	margin-left: 48%;
+	padding:15px;
+	font-size: 22px;
+	font-family: montserrat;
+}
+nav
+{
+	overflow: hidden;
+}
+.navbar-nav a:hover {
+  background-color: #FF5555;
+  text-decoration: underline;
+}
+.heading
+{
+  font-family: pacifico;
+  color: #FF5555;
+  font-size: 60px;
+  margin-left: 1%;
+  font-style: italic;
+  overflow-y: hidden;
+}
+.contact h1
+{
+	text-align: center;
+	color: white;
+	font-family: arial;
+	font-size: 60px;
+	font-style: bold;
+	margin-top: 2%;
+}
+.contact form
+{
+margin-left: 35%;
+}
+.contact input
+{
+	padding: 1% 17%;
+	margin:2%;
+	background-color: rgba(0,0,0,0.1);
+	color: white;
+}
+.contact textarea
+{
+	padding: 1% 6%;
+	margin:2%;
+	background-color: rgba(0,0,0,0.1);
+	color: white;
+}
+.contact button
+{
+	padding: 11px 35px;
+	margin-left: 19%;
+}
